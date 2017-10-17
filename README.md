@@ -1,3 +1,3 @@
 ### Projekty:
 
- * [CurrencyConverter](https://kborzecki.github.io/converter)
+ * [CurrencyConverter](https://kborzecki.github.io/CurrencyConverter)
